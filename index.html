@@ -146,7 +146,7 @@
               <strong class="strong" data-letter-effect>Traveler</strong>
             </div>
 
-            <p class="hero-text">4 Years Of Experience</p>
+            <p class="hero-text">5 Years Of Experience</p>
 
           </div>
 
@@ -524,9 +524,9 @@
               <p class="section-text">
                 A passionate
                 <em class="em">photograher</em>
-                who are Owner Of ChriShots and Working in this field for
-                <em class="em">last 3 years.</em>
-                I’m ready to give you my best.
+                who are Owner/Head Of ChriShots and Working in this field for
+                <em class="em">last 4 years.</em>
+                We're ready to give you Our best.
               </p>
 
             </div>
