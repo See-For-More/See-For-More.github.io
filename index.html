@@ -523,7 +523,7 @@
 
               <p class="section-text">
                 A passionate
-                <em class="em">photograher</em>
+                <em class="em">photograher/Videographer</em>
                 who are Owner/Head Of ChriShots and Working in this field for
                 <em class="em">last 4 years.</em>
                 We're ready to give you Our best.
