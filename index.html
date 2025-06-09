@@ -579,7 +579,7 @@
                 </p>
               </div>
 
-              <a href="https://www.facebook.com/ChriShotssss/posts/pfbid0jkHBrsHjdTnhZQq7Ge1D4b9mUboTAwkxyXgtpVLnhKRt5VEZKY9ispjB5ErrSy7Ml" class="btn-icon" aria-label="See more">
+              <a href="https://www.playbook.com/s/chrishots/VDRvZB2nLGrLeNnuKxS5fQUS" class="btn-icon" aria-label="See more">
                 <svg xmlns="http://www.w3.org/2000/svg" width="43" height="20" viewBox="0 0 43 20" fill="none">
                   <path d="M0 10H41" stroke="white" stroke-width="2" />
                   <path d="M33 1L41.9 10.2727L33 19" stroke="white" stroke-width="2" />
@@ -603,7 +603,7 @@
                 </p>
               </div>
 
-              <a href="https://www.facebook.com/ChriShotssss/posts/pfbid0ZhrwvoeYo7eCjvhVFccPT2qbyAwzanWhrKrk7HDxrRyqs1EegsFGhk7CPLh5EoNsl" class="btn-icon" aria-label="See more">
+              <a href="https://www.playbook.com/s/chrishots/GYBHxnCsPR5tuebJyn74iAYx" class="btn-icon" aria-label="See more">
                 <svg xmlns="http://www.w3.org/2000/svg" width="43" height="20" viewBox="0 0 43 20" fill="none">
                   <path d="M0 10H41" stroke="white" stroke-width="2" />
                   <path d="M33 1L41.9 10.2727L33 19" stroke="white" stroke-width="2" />
@@ -627,7 +627,7 @@
                 </p>
               </div>
 
-              <a href="https://www.facebook.com/ChriShotssss/posts/pfbid0ezdgE6hUaqkUaKM8EuCbzfWgemZ3YXb3ukdRUKgRrkrGarcxLVbrwoQFYw1oMdePl" class="btn-icon" aria-label="See more">
+              <a href="https://www.playbook.com/s/chrishots/t9gj3qrJdAUBPjgL6PuC8ebg" class="btn-icon" aria-label="See more">
                 <svg xmlns="http://www.w3.org/2000/svg" width="43" height="20" viewBox="0 0 43 20" fill="none">
                   <path d="M0 10H41" stroke="white" stroke-width="2" />
                   <path d="M33 1L41.9 10.2727L33 19" stroke="white" stroke-width="2" />
@@ -651,7 +651,7 @@
                 </p>
               </div>
 
-              <a href="https://www.facebook.com/ChriShotssss/posts/pfbid0873NkZupXASWCL17yA3cgkFDnuXpLwcbvACrLhMYFk8RWvedQyx11euTRTYSHfHgl" class="btn-icon" aria-label="See more">
+              <a href="https://www.playbook.com/s/chrishots/tNtL8bvL3qkoyrt946bD1TsF" class="btn-icon" aria-label="See more">
                 <svg xmlns="http://www.w3.org/2000/svg" width="43" height="20" viewBox="0 0 43 20" fill="none">
                   <path d="M0 10H41" stroke="white" stroke-width="2" />
                   <path d="M33 1L41.9 10.2727L33 19" stroke="white" stroke-width="2" />
@@ -675,7 +675,7 @@
                 </p>
               </div>
 
-              <a href="https://www.facebook.com/ChriShotssss/videos/3328242897467286/" class="btn-icon" aria-label="See more">
+              <a href="https://www.playbook.com/s/christian-feria/Aogtez2Xr2po3rZXMpsMNGXz" class="btn-icon" aria-label="See more">
                 <svg xmlns="http://www.w3.org/2000/svg" width="43" height="20" viewBox="0 0 43 20" fill="none">
                   <path d="M0 10H41" stroke="white" stroke-width="2" />
                   <path d="M33 1L41.9 10.2727L33 19" stroke="white" stroke-width="2" />
